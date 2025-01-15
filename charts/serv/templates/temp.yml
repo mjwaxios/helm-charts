@@ -54,6 +54,6 @@ metadata:
 data:
   config.json: |-
     {
-      "message": "{{ .Values.cfgmsg }}"
+      "message": "appVer={{ .Chart.AppVersion }} {{ .Values.cfgmsg }}"
     }
 
