@@ -2,5 +2,5 @@ apiVersion: v2
 name: serv
 description: Hello Msg server
 type: application
-version: 0.0.10
-appVersion: "1.0.10"
+version: 0.0.11-1
+appVersion: "1.0.11"
