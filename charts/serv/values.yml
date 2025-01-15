@@ -1,0 +1,7 @@
+msg: Default Command Line Message
+cfgmsg: Default message in config.json
+nodePort: 30100
+appPort: 10100
+image:
+  repository: localhost:5000/serv
+    
