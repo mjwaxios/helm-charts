@@ -3,6 +3,16 @@ entries:
   serv:
   - apiVersion: v2
     appVersion: 1.0.12
+    created: "2025-01-15T23:12:15.088046265Z"
+    description: Hello Msg server
+    digest: 68a7f254ff8fbf4476c92fa5cac956d2e7032136b4b4c815185e2e0d963d4a84
+    name: serv
+    type: application
+    urls:
+    - https://github.com/mjwaxios/helm-charts/releases/download/serv-0.0.12-2/serv-0.0.12-2.tgz
+    version: 0.0.12-2
+  - apiVersion: v2
+    appVersion: 1.0.12
     created: "2025-01-15T22:49:52.833261302Z"
     description: Hello Msg server
     digest: 9b395b39e27e27e4accc5f37a404ef3ff8cc25978a4027e98b590863e5b406d6
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://github.com/mjwaxios/helm-charts/releases/download/serv-0.0.10-2/serv-0.0.10-2.tgz
     version: 0.0.10-2
-generated: "2025-01-15T22:49:52.833285116Z"
+generated: "2025-01-15T23:12:15.088073767Z"
