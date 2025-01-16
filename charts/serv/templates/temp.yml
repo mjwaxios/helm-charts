@@ -53,6 +53,9 @@ spec:
       - name: podinfo
         downwardAPI:
           items:
+            - path: "myname"
+              fieldRef:
+                fieldPath: metadata.name
             - path: "labels"
               fieldRef:
                 fieldPath: metadata.labels
